@@ -1,0 +1,43 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.10.0",
+    "@material-ui/icons": "4.9.1",
+    "@types/node": "14.0.6",
+    "final-form": "4.20.0",
+    "final-form-material-ui": "0.3.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-facebook-login": "4.1.1",
+    "react-final-form": "6.5.0",
+    "react-google-login": "5.1.20",
+    "react-scripts": "3.0.1",
+    "react-social-login": "3.4.7",
+    "react-twitter-login": "1.1.2",
+    "redux": "4.0.5",
+    "redux-observable": "1.2.0",
+    "rxjs": "6.5.5"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
